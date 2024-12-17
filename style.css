@@ -1,0 +1,11 @@
+div{
+    color:rgb(255, 0, 0);
+    text-decoration: underline;
+    font-family: "Open Sans", serif;
+    font-weight: 600;
+}
+#grad1 {
+    height: 200px;
+    background: linear-gradient(blue, green, red, pink);
+}
+
